@@ -19,9 +19,10 @@ For player detection : []()
 Note : here assure that you have changes dataset path into notebook as per your requirement (downloaded dataset path).
 As an output you get model (.pth) into "exp/default" folder. 
 
-After training of each model, we get model files (which can be accessible via below links) :
+After training of each model, we get model files (which can be accessible via below links) and also .pkl file (For defining model weights) :
 
-For ball detection : [model_best.pth](https://drive.google.com/file/d/1kNwgy7nAiKn9IJU1qYUfbiuVwnCbPPBM/view?usp=sharing)
+For ball detection : [model_best.pth](https://drive.google.com/file/d/1kNwgy7nAiKn9IJU1qYUfbiuVwnCbPPBM/view?usp=sharing) , [model_weights.pkl](https://drive.google.com/file/d/181mENgzT2xGpnmH0p9SXtMViJOCkYKBW/view?usp=sharing)
+
 
 For court-key-point detection : []()
 
