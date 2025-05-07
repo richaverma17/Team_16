@@ -29,9 +29,13 @@ For court-key-point detection : [keypoints_model.pth](https://drive.google.com/f
 
 For player detection : [best.pt](https://drive.google.com/file/d/16zWAP_Wc9Q8OpLigmjpHhkaM_ZIrhWDQ/view?usp=sharing),
                        [best.pkl](https://drive.google.com/file/d/1xXCjtoBh6XSm1ALn32IfB_ZBRKAcUAJE/view?usp=sharing)
+
+### For eval :
+
+This folder conatins notebook file to print matrix (precision , recall , accuracy , F1-score). Each model has it's own .pkl file so this folder contains 3 different notebook files which uses .pkl file of their perticular model.
  
 
-### For testing / eval :
+### For testing / infer :
 
 To test models , assure that you have added all model files (.pth) to your "kaggle/input" folder (inshort add models into kaggle notebook) and also add video dataset for which you want to test these models. 
 
