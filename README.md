@@ -24,10 +24,10 @@ After training of each model, we get model files (which can be accessible via be
 For ball detection : [model_best.pth](https://drive.google.com/file/d/1kNwgy7nAiKn9IJU1qYUfbiuVwnCbPPBM/view?usp=sharing) , [model_weights.pkl](https://drive.google.com/file/d/181mENgzT2xGpnmH0p9SXtMViJOCkYKBW/view?usp=sharing)
 
 
-For court-key-point detection : [keypoints_model.pth](https://drive.google.com/file/d/1ksApit5G6uu-RzpCK9rQBkMPNXawuYGB/view?usp=sharing)
+For court-key-point detection : [keypoints_model.pth](https://drive.google.com/file/d/1ksApit5G6uu-RzpCK9rQBkMPNXawuYGB/view?usp=sharing),
                                 [keypoints_model.pkl](https://drive.google.com/file/d/1EHBgxEzNenqpVeIhn64pLCbyO6vEB08A/view?usp=sharing)
 
-For player detection : [best.pt](https://drive.google.com/file/d/16zWAP_Wc9Q8OpLigmjpHhkaM_ZIrhWDQ/view?usp=sharing)
+For player detection : [best.pt](https://drive.google.com/file/d/16zWAP_Wc9Q8OpLigmjpHhkaM_ZIrhWDQ/view?usp=sharing),
                        [best.pkl](https://drive.google.com/file/d/1xXCjtoBh6XSm1ALn32IfB_ZBRKAcUAJE/view?usp=sharing)
  
 
