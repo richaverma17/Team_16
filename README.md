@@ -12,7 +12,7 @@ To train each model , you have to download these datasets :
 
 For ball detection (zip file) : [Dataset](https://drive.google.com/file/d/1mcsZDjBdRJ91dJiZ7eXTCdvLPJ_P9LFt/view?usp=sharing)
 
-For court-key-point detectio : []()
+For court-key-point detection : []()
 
 For player detection : []()
 
