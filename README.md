@@ -12,9 +12,9 @@ To train each model , you have to download these datasets :
 
 For ball detection (zip file) : [Dataset](https://drive.google.com/file/d/1mcsZDjBdRJ91dJiZ7eXTCdvLPJ_P9LFt/view?usp=sharing)
 
-For court-key-point detection : []()
+For court-key-point detection : [Dataset](https://drive.usercontent.google.com/download?id=1lhAaeQCmk2y440PmagA0KmIVBIysVMwu&export=download&authuser=0&confirm=t&uuid=3077628e-fc9b-4ef2-8cde-b291040afb30&at=APZUnTU9lSikCSe3NqbxV5MVad5T%3A1708243355040)
 
-For player detection : []()
+For player detection : [Dataset](https://drive.google.com/file/d/1g1qOOWgETwUOV1gwvGAd-LP1SEUmoNPI/view?usp=sharing)
 
 Note : here assure that you have changes dataset path into notebook as per your requirement (downloaded dataset path).
 As an output you get model (.pth) into "exp/default" folder. 
@@ -24,9 +24,11 @@ After training of each model, we get model files (which can be accessible via be
 For ball detection : [model_best.pth](https://drive.google.com/file/d/1kNwgy7nAiKn9IJU1qYUfbiuVwnCbPPBM/view?usp=sharing) , [model_weights.pkl](https://drive.google.com/file/d/181mENgzT2xGpnmH0p9SXtMViJOCkYKBW/view?usp=sharing)
 
 
-For court-key-point detection : []()
+For court-key-point detection : [keypoints_model.pth](https://drive.google.com/file/d/1ksApit5G6uu-RzpCK9rQBkMPNXawuYGB/view?usp=sharing)
+                                [keypoints_model.pkl](https://drive.google.com/file/d/1EHBgxEzNenqpVeIhn64pLCbyO6vEB08A/view?usp=sharing)
 
-For player detection : []()
+For player detection : [best.pt](https://drive.google.com/file/d/16zWAP_Wc9Q8OpLigmjpHhkaM_ZIrhWDQ/view?usp=sharing)
+                       [best.pkl](https://drive.google.com/file/d/1xXCjtoBh6XSm1ALn32IfB_ZBRKAcUAJE/view?usp=sharing)
  
 
 ### For testing / eval :
