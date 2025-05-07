@@ -32,8 +32,7 @@ For player detection : [best.pt](https://drive.google.com/file/d/16zWAP_Wc9Q8OpL
 
 ### For eval :
 
-This folder conatins notebook file to print matrix (precision , recall , accuracy , F1-score). Each model has it's own .pkl file so this folder contains 3 different notebook files which uses .pkl file of their perticular model.
- 
+This folder conatins notebook file to print matrix (precision , recall , accuracy , F1-score). Each model has it's own .pkl file. 
 
 ### For testing / infer :
 
