@@ -40,7 +40,7 @@ To test models , assure that you have added all model files (.pth) to your "kagg
 
 This "eval.ipynb" file just use that model on input video (assure while testing change video dataset path) and provides output with analysis and ball, court-key-point, player detection. You can see output video (which will be available inside "kaggle/working" folder) by downloading it.
 
-After testing on input video , we get output video can be accessible via below links (you can give input video as your choice but make sure video path is correct) :
+After testing on input video (make sure input video has standard dimensions 1280*720) , we get output video can be accessible via below links (you can give input video as your choice but make sure video path is correct) :
 
 input video : [input_video.mp4](https://drive.google.com/file/d/1H0FNu3gpKHrlxCWOv1aImdkOaha59Q26/view?usp=sharing)
 
